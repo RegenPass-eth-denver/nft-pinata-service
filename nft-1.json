@@ -1,0 +1,24 @@
+{
+  "id": "1",
+  "name": "ETH Denver 2025 POAP",
+  "description": "This is a POAP for ETH Denver 2025 sponsored by Chainlink.",
+  "image": "https://example.com/ethdenver2025.png",
+  "attributes": [
+    {
+      "trait_type": "Event",
+      "value": "ETH Denver 2025"
+    },
+    {
+      "trait_type": "Sponsor",
+      "value": "Chainlink"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Denver, CO"
+    },
+    {
+      "trait_type": "Category",
+      "value": "POAP"
+    }
+  ]
+}
